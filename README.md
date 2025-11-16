@@ -4,7 +4,7 @@ Hi, I'm Vasu!
 
 Programming Languages: Python
 
-Libraries & Frameworks: TensorFlow, scikit-learn, pandas, numpy, seaborn, xgboost, catboost, Flask
+Libraries & Frameworks: TensorFlow, scikit-learn, pandas, numpy, seaborn, Flask
 
 Databases: MySQL, Chromadb, Neo4j, MongoDB
 
